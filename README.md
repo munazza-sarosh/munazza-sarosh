@@ -1,39 +1,43 @@
-## Hi there 👋
-# Hi 👋, I'm Munazza Sarosh
+# 💫 About Me
 
-🎓 **BSc Computer Science Student | 2nd Year**
+Hi there, I'm **Munazza Sarosh** 👋
+I'm a **BSc Computer Science student** and an **aspiring Front-End Developer** passionate about creating modern, responsive, and user-friendly websites.
 
-I'm a Computer Science student who is currently learning **Web Development** and building my skills step by step.
+I'm currently focused on strengthening my **HTML, CSS, and JavaScript** skills by building projects and practicing regularly.
 
-### 🌱 Currently Learning
+## 🚀 Aspiring Front-End Developer | HTML, CSS & JavaScript
 
-* 🌐 HTML
-* 🎨 CSS
-* 💻 Web Development
-* 📚 Improving my programming and problem-solving skills
+## 🧠 What I'm Working On
 
-### 🛠️ Skills
+* 🌱 Improving my **HTML and CSS** skills
+* 💻 Learning **JavaScript** and strengthening my fundamentals
+* 🎨 Building modern and responsive websites
+* 🧩 Practicing through hands-on web development projects
+* 🧠 Improving my programming and problem-solving skills
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+## 🛠️ Tech Stack
 
-### 🚀 My Goals
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Currently Learning:** JavaScript & Front-End Development
+* **Tools:** Git, GitHub, VS Code
 
-* Build creative and responsive websites
-* Learn JavaScript next
-* Work on interesting web development projects
-* Keep improving my coding skills
+## 📈 Goals
 
-### 📫 Contact Me
+* 🚀 Become a skilled Front-End Developer
+* 💻 Build modern and responsive websites
+* 🧠 Strengthen my JavaScript and programming skills
+* 📚 Learn more front-end technologies and frameworks
+* ✨ Keep building projects and improving every day
 
-📧 **Email:** [saroshmunazza@gmail.com](mailto:saroshmunazza@gmail.com)
+## 🤝 Let's Connect
+
+* 📧 **Email:** [saroshmunazza@gmail.com](mailto:saroshmunazza@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/munazzasarosh](https://www.linkedin.com/in/munazzasarosh/)
+* 🐙 **GitHub:** [github.com/munazza-sarosh](https://github.com/munazza-sarosh)
 
 ---
 
-⭐ *Learning, coding, and improving every day!*
-
+⭐ *Learning, building, and growing one project at a time.*
 
 <!--
 **munazza-sarosh/munazza-sarosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
