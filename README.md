@@ -1,6 +1,11 @@
 # 💫 About Me
 
 Hi there, I'm **Munazza Sarosh** 👋
+
+## GitHub Streak 🔥
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=munazza-sarosh&theme=tokyonight)
+
 I'm a **BSc Computer Science student** and an **aspiring Front-End Developer** passionate about creating modern, responsive, and user-friendly websites.
 
 I'm currently focused on strengthening my **HTML, CSS, and JavaScript** skills by building projects and practicing regularly.
